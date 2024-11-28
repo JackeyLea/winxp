@@ -2,3 +2,5 @@
 *.lib
 *.sfont
 *.pdb
+*.exe
+*.sdf
